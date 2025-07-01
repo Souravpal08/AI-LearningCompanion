@@ -29,7 +29,7 @@
 
 ## 📸 Demo
 
-> Coming soon: [Live Demo Link](https://ai-learning-companion-jade.vercel.app/)
+> Check it here: [Live Demo Link](https://ai-learning-companion-jade.vercel.app/)
 
 ---
 
@@ -66,36 +66,9 @@ npm run dev
 | Name           | Role                                 | LinkedIn                                        | GitHub                                   |
 | -------------- | ------------------------------------ | ----------------------------------------------- | ---------------------------------------- |
 | **Sourav Pal** | Full Stack Developer | [LinkedIn](https://linkedin.com/in/souravpal08) | [GitHub](https://github.com/Souravpal08) |
-|**Tuhin ghosh** | Full stack developer & AI integrater| [Linkedin](https://www.linkedin.com/in/tuhin-ghosh-bb4607291/) |                            |
+|**Tuhin ghosh** | Full stack developer & AI integrater| [Linkedin](https://www.linkedin.com/in/tuhin-ghosh-bb4607291/) |  [Github](https://github.com/TuhinCodeCraft) |
+|**Pritam Mahata** | UI Designer & Video editor| [Linkedin](https://www.linkedin.com/in/pritam-mahata/) | [Github](https://github.com/PritamMahata) |
 
 
 If you're interested in contributing, check out the contributing guidelines or open an issue!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-rTPaYq716Lp40gHS
-
-https://destined-kid-43.clerk.accounts.dev
