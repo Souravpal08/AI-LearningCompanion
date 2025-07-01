@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5622AQEwEWrO4Q_nWQ/feedshare-shrink_2048_1536/B56ZedXwmYH8Ao-/0/1750691941815?e=1754524800&v=beta&t=zuMqAH4rV2m9Z8SSPh0OvdFRPT4f-NR--4MVNrGpGrc" alt="TutorAid Cover" width="100%" />
   <h1>TutorAid 🎓</h1>
   <p><strong>Your AI-powered Learning Companion</strong></p>
-  <p>Helping students interact with personalized learning content through real-time chat, voice assistance, and intelligent feedback.</p>
+  <p>Helping students interact with personalized learning companion through real-time voice assistance, and progress tracking.</p>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 
 | Frontend | Backend | AI & Auth | Styling | Hosting |
 |----------|---------|-----------|---------|---------|
-| React.js | Node.js | Vapi voice agent ,OpenAI API, Clerk Auth | Tailwind CSS | Vercel  |
+| Nextjs, tailwindcss | Supabase | Vapi voice agent ,OpenAI API, Clerk Auth | Tailwind CSS | Vercel  |
 
 ---
 
@@ -61,7 +61,7 @@ npm run dev
 
 -> Real-Time Transcription: Voice queries are transcribed instantly  , enabling a smooth and inclusive experience.
 
-## developers
+## 🖥️developers
 
 | Name           | Role                                 | LinkedIn                                        | GitHub                                   |
 | -------------- | ------------------------------------ | ----------------------------------------------- | ---------------------------------------- |
