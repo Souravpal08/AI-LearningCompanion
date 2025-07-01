@@ -1,3 +1,56 @@
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQEwEWrO4Q_nWQ/feedshare-shrink_2048_1536/B56ZedXwmYH8Ao-/0/1750691941815?e=1754524800&v=beta&t=zuMqAH4rV2m9Z8SSPh0OvdFRPT4f-NR--4MVNrGpGrc" alt="TutorAid Cover" width="100%" />
+  <h1>TutorAid 🎓</h1>
+  <p><strong>Your AI-powered Learning Companion</strong></p>
+  <p>Helping students interact with personalized learning content through real-time chat, voice assistance, and intelligent feedback.</p>
+</div>
+
+---
+
+## 🚀 Features
+
+- 🎤 Voice AI chat for natural interactions
+- 🧠 Real-time transcription & AI feedback
+- 📚 Subject/topic-wise quiz generation
+- 📝 Smart dashboard with progress tracking
+- 🔐 Secure authentication (Clerk/Firebase)
+- 🌐 Fully responsive & clean UI/UX
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | AI & Auth | Styling | Hosting |
+|----------|---------|-----------|---------|---------|
+| React.js | Node.js | OpenAI API, Clerk Auth | Tailwind CSS | Vercel / Firebase |
+
+---
+
+## 📸 Demo
+
+> Coming soon: [Live Demo Link](https://your-demo-link.com)
+
+---
+
+## 📂 Folder Structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
