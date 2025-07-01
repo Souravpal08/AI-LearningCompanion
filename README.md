@@ -12,9 +12,9 @@
 
 - 🎤 Voice AI chat for natural interactions
 - 🧠 Real-time transcription & AI feedback
-- 📚 Subject/topic-wise quiz generation
+- 📚 Subject/topic-wise AI agent generation
 - 📝 Smart dashboard with progress tracking
-- 🔐 Secure authentication (Clerk/Firebase)
+- 🔐 Secure authentication (Clerk)
 - 🌐 Fully responsive & clean UI/UX
 
 ---
@@ -23,70 +23,77 @@
 
 | Frontend | Backend | AI & Auth | Styling | Hosting |
 |----------|---------|-----------|---------|---------|
-| React.js | Node.js | OpenAI API, Clerk Auth | Tailwind CSS | Vercel / Firebase |
+| React.js | Node.js | Vapi voice agent ,OpenAI API, Clerk Auth | Tailwind CSS | Vercel  |
 
 ---
 
 ## 📸 Demo
 
-> Coming soon: [Live Demo Link](https://your-demo-link.com)
+> Coming soon: [Live Demo Link](https://ai-learning-companion-jade.vercel.app/)
 
 ---
 
-## 📂 Folder Structure
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
+## ⚙️ Installation & Setup
 
 ```bash
+# Clone the repo
+git clone https://github.com/your-username/TutorAid.git
+cd TutorAid
+
+# Install dependencies
+npm install
+
+# Set up environment variables
+cp .env.example .env
+# Fill in your API keys (OpenAI, Clerk, etc.)
+
+# Run the app
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🤖 AI Capabilities
+-> TutorAid leverages the power of OpenAI's GPT-4 and other intelligent APIs to enhance the learning experience:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-> Conversational AI Tutor: Students can interact naturally via text or voice with an AI-powered tutor that explains concepts, answers questions, and guides their learning path.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-> Real-Time Transcription: Voice queries are transcribed instantly  , enabling a smooth and inclusive experience.
 
-## Learn More
+## developers
 
-To learn more about Next.js, take a look at the following resources:
+| Name           | Role                                 | LinkedIn                                        | GitHub                                   |
+| -------------- | ------------------------------------ | ----------------------------------------------- | ---------------------------------------- |
+| **Sourav Pal** | Full Stack Developer | [LinkedIn](https://linkedin.com/in/souravpal08) | [GitHub](https://github.com/Souravpal08) |
+|**Tuhin ghosh** | Full stack developer & AI integrater| [Linkedin](https://www.linkedin.com/in/tuhin-ghosh-bb4607291/) |                            |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+If you're interested in contributing, check out the contributing guidelines or open an issue!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 rTPaYq716Lp40gHS
